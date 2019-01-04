@@ -1,0 +1,16 @@
+@import url(https://fonts.googleapis.com/css?family=Cabin:400);
+
+body {
+  margin: 0;
+  padding: 0;
+  color: #fff;
+  background: #151515;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}

@@ -1,0 +1,10 @@
+.navbar{
+	color: #fff;
+	text-align: center;
+	padding: .5rem 1rem;
+	font-size: 1.25rem;
+}
+
+.bg-dark{
+	background-color: #333;
+}
